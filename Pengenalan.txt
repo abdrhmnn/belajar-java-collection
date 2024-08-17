@@ -1,0 +1,5 @@
+Collection atau container adalah objek yg mengumpulkan atau berisikan data", mirip seperti array
+
+semua class Collection di java itu sifatnya adalah generic
+semua collection di java itu memiliki kontrak interface
+semua collection di java sudah disedikan algoritma nya sendiri, seperti utk mengurutkan, filter, dll 
